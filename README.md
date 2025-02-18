@@ -30,44 +30,26 @@ This project analyzes employee data from ABC Company to extract key insights abo
 
 ## **📈 Graphical Representations**
 Each analysis task is accompanied by a visualization for better understanding:
-- **Bar Charts** for employee distribution by team and position.
-- **Pie Chart** for the percentage of employees in different teams.
+- **Bar Chart** for employee distribution by position.
+- **Bar Chart** for the distribution of employees across different teams.
 - **Histogram** for age group distribution.
-- **Box Plot** for salary expenditure by team and position.
+- **Bar Charts** for salary expenditure by team and position.
 - **Scatter Plot** for correlation analysis between age and salary.
 
 ## **📢 Key Insights**
-- **Most employees belong to Teams A & B**, while some teams have significantly fewer members.
+- **Most employees belong to Teams New Orleans Pelicans & Memphis Grizlies **, while some teams have significantly fewer members.
 - **Mid-level positions dominate** the workforce, with fewer employees in senior roles.
 - The **age group 25-35 years** is the most common, highlighting a young workforce.
-- **Team A and senior positions** contribute to the highest salary expenditure.
+- **Team Cleveland Cavaliers and C positions** contribute to the highest salary expenditure.
 - There is a **positive correlation between age and salary**, indicating experience-based pay growth.
 
 ## **🚀 Conclusion & Recommendations**
-✅ **Balance workforce allocation** across teams to optimize efficiency.
-✅ **Develop leadership training programs** to ensure career progression opportunities.
-✅ **Encourage mentorship programs** to transfer knowledge between younger and senior employees.
-✅ **Ensure fair salary growth policies** across all job levels.
+ **Balance workforce allocation** across teams to optimize efficiency.
+ **Develop leadership training programs** to ensure career progression opportunities.
+ **Encourage mentorship programs** to transfer knowledge between younger and senior employees.
+ **Ensure fair salary growth policies** across all job levels.
 
-## **📜 Project Submission & Repository Structure**
-1. **Jupyter Notebook** (`employee_analysis.ipynb`) - Contains all code, analysis, and visualizations.
-2. **Dataset File** (`myexcel.xlsx`) - Original data used for analysis.
-3. **README.md** - This document, summarizing the project.
 
-## **📌 How to Run the Notebook**
-1. Clone the repository:
-   ```bash
-   git clone <repository-link>
-   ```
-2. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-3. Run `employee_analysis.ipynb` to execute the analysis.
 
----
 
-By completing this project, we demonstrate proficiency in **data preprocessing, exploratory analysis, and visualization** using Python. 🎯
-
-**Happy Analyzing! 🚀**
 
